@@ -1,0 +1,35 @@
+.areaImgPadaria {
+    
+    width: 950px;
+    margin:2em auto 2em  ;
+    max-width: 100%;
+}
+
+.imgPadaria {
+    
+   width: 400px;
+   margin-right: 2em;
+}
+
+.tituloImgPadaria {
+    text-transform: uppercase;
+    padding: 1em;
+    font-family: Cormorant,sans-serif;
+    font-size: 40px;
+    
+}
+
+.posicaoImgPadaria {
+    float: left;
+}
+
+.posicaoTitulo {
+    margin: 10px;
+}
+
+.posicaoTitulo p {
+    font-weight: lighter;
+    font-size: 18px;
+    color: silver;
+    display: block;
+}
